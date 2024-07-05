@@ -1,3 +1,4 @@
+![image](https://github.com/efegulcan/nba-data-analysis/assets/155905283/75048460-86d5-4319-891d-4e372f5aed54)
 
 ## Features
 
